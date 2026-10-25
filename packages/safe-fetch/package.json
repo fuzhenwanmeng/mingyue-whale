@@ -1,0 +1,12 @@
+{
+  "name": "@whale/safe-fetch",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "只读 HTTP(S) 安全抓取：SSRF 防护、手动重定向、响应体限量、图片字节校验。",
+  "exports": "./src/index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

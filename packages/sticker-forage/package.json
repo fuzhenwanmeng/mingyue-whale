@@ -1,0 +1,12 @@
+{
+  "name": "@whale/sticker-forage",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "表情包觅食核心：图源解析、安全下载、候选收件箱、过滤与日记。无 QQ 依赖。",
+  "exports": "./src/index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
